@@ -1,0 +1,8 @@
+fastapi[standard]
+sqlmodel
+passlib[bcrypt]
+scikit-learn
+pillow
+numpy
+opencv-python
+joblib
